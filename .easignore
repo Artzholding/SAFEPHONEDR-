@@ -1,0 +1,17 @@
+node_modules/
+.git/
+.expo/
+dist/
+web-build/
+*.log
+*.tmp
+**/*.tmp
+.tmp/**
+AppData/**
+Temp/**
+**/AppData/**
+**/Temp/**
+**/Local/Temp/**
+
+
+
